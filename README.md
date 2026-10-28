@@ -1,9 +1,9 @@
-# Project Overview
+# How to Navigate through this repository
 
-# Scenario: 
+# Overview: 
 the village has lost their website and 
 
-#Selected screenshots
+# Selected screenshots
 For the website recovery project, our team selected six different screenshots: 
 - Planning Board
 - Village Board of Trustees
