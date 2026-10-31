@@ -1,0 +1,40 @@
+Page Title,Location Ex: Home/agenda/boards/minutes,Summary,Text extraction notes
+Planning Board,Homepage/Boards and Committees/Planning Board,"This page is about the Planning Board. It explains what the board does and lists its seven members with their contact details and terms. It also has FAQs about meetings. Some member terms have already ended, and the meeting dates are from 2020, so the page looks outdated.","Lines 1 and 3: only part of the top menu was captured. ""Calendars"" is correct. ""Departments"" was read as ""partments"". Home, Search, and News are missing.
+Lines 13, 15, 16: bullets read as ¢.
+Line 18: bullet read as «.
+Lines 72 to 75: numbered list lost its numbers. Only ""1."" was kept; 2 to 5 became ""."".
+Footer disclaimer and contact text missing."
+Village Board of Trustees,Homepage/Boards and Committees/Village Board,"This page is about the Village Board of Trustees. It lists five officials, meeting days, and eight documents. Most documents are from an older plan (2012 to 2022).","Lines 9 and 11: bullets read as ¢.
+Line 10: bullet read as ° (degree sign).
+Lines 53 to 58: top menu captured correctly this time, but listed after the main text.
+Lines 60, 62, 85, 87, 89: checkmark icons in the side menu read as @. Other menu items have no symbol.
+Line 64: ""SS SS SS SS SS SS"" is garbled text, probably from the checkmark icons.
+Line 93: ""DE wees Eee"" is garbled logo text.
+Footer disclaimer and contact text missing."
+Village Board Agendas,Homepage/Agendas and Minutes/Village Board Agendas,"This page shows the Village Board agendas. It lists five meetings from late 2014. It also has links to agendas from 2015 to 2023. The headings say ""Minutes Entries,"" but the page is about agendas.","Line 7: bullet read as ¢.
+Line 8: bullet read as ""e"".
+Line 36: ""N Ews"" instead of ""News"".
+""Departments"" menu button missing.
+Menus listed after the main text, with uneven blank lines.
+Line 68: ""DE wees Eee"" (garbled logo text).
+Footer disclaimer and contact text missing."
+Zoning Board of Appeals Minutes,Homepage/Agendas and Minutes/Zoning Board Minutes,This page lists four meetings from 2015 and a link to 2014. Two of the 2015 entries have only a date and no title.,"Line 7: bullet read as ¢.
+Line 8: bullet read as ""e"".
+Line 25: checkmark icon read as ""?"" before ""Assessment Information"".
+Side menu has uneven blank lines.
+Line 53: ""cs"" is garbled text.
+Line 55: ""Powered By"" (logo) read as ""Wakes By"".
+Line 57: ""Digital"" is extracted, but ""Towpath"" is missing.
+Footer disclaimer and contact text missing."
+Planning and Development Office,Homepage/Departments/Planning and Development Office,"This page is about Planning and Development Office. it gives the director's contact details and lists four services, like business loans and grant writing.","Top menu: only ""Calendars"" and ""partments"" (Departments) are extracted. Home, Search, and News missing.
+Side menu items merged into main text lines (lines 5 to 40), for example line 15 ""Fax: 315-265-6020 w FAQ's"" and line 16 ""Email: ... w& Forms"". Some menu items out of order.
+Checkmark icons read as ?, w, w&, e, ww, and ""."".
+Lines 25 and 26: bullets read as ©. Line 25 also has an extra ""."".
+Lines 30, 56, 62: bullets read as «.
+Footer disclaimer and contact text missing."
+Department of Public Works,Homepage/Departments/Department of Public Works,"This page is about the Department of Public Works. It gives the contact details and lists the services, like snow removal, street repair, and water lines.","Line 17: bullet before ""Services"" missing.
+Line 18: bullet read as ¢.
+Lines 70 to 75: top menu captured correctly, but listed after the main text.
+Lines 77, 79, 102, 104, 106: checkmark icons read as @.
+Line 81: ""SS SS SS SS SS SS"" is garbled text, probably from the checkmark icons.
+Footer disclaimer and contact text missing."

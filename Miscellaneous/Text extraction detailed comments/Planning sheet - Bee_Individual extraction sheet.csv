@@ -1,0 +1,36 @@
+Page Title,Category,Content type,Page type,Location Ex: Home/agenda/boards/minutes,Headings,Text extraction notes,My notes 
+Planning Board,Boards & Committees,"text, headings, member names, phone numbers, documents, emails, page hero image, main menu and pages (as side bar), footer",Content page - board profile,Homepage/Boards and Committees/Planning Board,"Boards & Committees
+Planning Board
+Table Of Contents:
+Duties:
+Members:
+FAQs:
+General FAQ's
+Documents:",No content errors found - Claude not even copied the text exactly in the same order but also the color and matched the source's typeface,prompt to cluade: can you extract the text from images and make doc files of text with same names for each screenshot .
+Village Board of Trustees,Boards & Committees,"Text, headings, officers' names, phone numbers, documents, emails, page hero image, main menu and pages, footer",Content page - board profile,Homepage/Boards and Committees/Village Board,"Boards & Committees
+Village Board of Trustees
+Table Of Contents:
+Duties:
+Officials:
+Documents:",No content errors found,
+Village Board Agendas,Agendas & Minutes,"Text, headings, Minutes, Years and dates, links, menu and pages, footer",Content page - agendas/minutes list,Homepage/Agendas and Minutes/Village Board Agendas,"Agendas & Minutes
+Village Board Agendas
+Table Of Contents:
+Minutes Entries - Year 2014:
+Minutes Entries - Other Years:",No content errors found,
+Zoning Board of Appeals Minutes,Agendas & Minutes,"Text, Minutes, headings, dates & years, links, menu & pages, footer",Content page - agendas/minutes list,Homepage/Agendas and Minutes/Zoning Board Minutes,"Agendas & Minutes
+Zoning Board of Appeals Minutes
+Table Of Contents:
+Minutes Entries - Year 2015:
+Minutes Entries - Other Years:",No content errors found,
+Planning and Development Office,Departments,"Text, headings, official names, phone numbers, Fax no., emails, links, table of contents, documents, menu and pages, footer ",Content page - department profile,Homepage/Departments/Planning and Development Office,"Departments
+Planning and Development Office
+Table Of Contents:
+Services:
+Officials:
+Documents:",No content errors found,
+Department of Public Works,Departments,"text, headings, names, phone numbers, email, address, fax no., table of contents, links, document, menu and pages, footer",Content page - department profile,Homepage/Departments/Department of Public Works,"Departments
+Department of Public Works
+Table Of Contents:
+Services:
+Documents:",No content errors found,
