@@ -10,17 +10,17 @@ The project was completed collaboratively by a team of three members.
 
 ## Project Objectives
 
-Reconstruct the observable information architecture of the original website.
+1. Reconstruct the observable information architecture of the original website.
 
-Create a structured inventory of the selected website pages and content.
+2. Create a structured inventory of the selected website pages and content.
 
-Compare three text extraction methods: Claude, Tesseract, and Python EasyOCR.
+3. Compare three text extraction methods: Claude, Tesseract, and Python EasyOCR.
 
-Verify extracted text against the original screenshots and document errors.
+4. Verify extracted text against the original screenshots and document errors.
 
-Identify content that can be recovered automatically and content requiring human review.
+5. Identify content that can be recovered automatically and content requiring human review.
 
-Recommend how the Village of Potsdam should preserve historical information and organize a future website.
+6. Recommend how the Village of Potsdam should preserve historical information and organize a future website.
 
 ## Repository Structure
 
