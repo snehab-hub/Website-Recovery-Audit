@@ -38,7 +38,9 @@ Note: The screenshots show the archived website. They do not show whether links,
 
 # Methodology
 
+The team analyzed eight archived screenshots of the Village of Potsdam website using the available sitemap to understand its original structure and navigation. A structured content inventory was created in SQLite to document page information, content types, assets, and recovery observations, with CSV files provided for reference.
 
+Three text extraction methods—Claude, Tesseract, and Python EasyOCR—were tested on the same screenshots. The extracted text was manually compared with the originals to identify errors, missing information, and formatting issues. These findings were used to develop recommendations for recovering historical content and improving the organization of a future website.
 
 ## Creating the Content Inventory
 
