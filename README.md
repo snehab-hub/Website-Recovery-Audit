@@ -31,7 +31,7 @@ The following resources provide the evidence used for this audit.
 | Archived screenshots | Original website screenshots used as the source material | [View screenshots](Selected-screenshots/) |
 | Text extraction files | Extracted text from Claude, Tesseract, and Python EasyOCR | [View extraction files](extraction-files/) |
 | Website sitemap | Mermaid sitemap of the original website hierarchy | [View sitemap](Sitemap.md) |
-| Content inventory | Page descriptions, documents, contacts, content types, extraction observations, and recovery notes. SQLite database and CSV inventory files | [View Inventory](inventory/) |
+| Content inventory | Page descriptions, documents, contacts, content types, extraction observations, and recovery notes. SQLite database and CSV inventory file | [View Inventory](inventory/) |
 | Miscellaneous | Supporting materials for the audit | [View files](Miscellaneous/) |
 
 Note: The screenshots show the archived website. They do not show whether links, contact information, documents, or services are still current or working.
