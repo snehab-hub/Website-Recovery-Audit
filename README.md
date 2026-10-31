@@ -1,16 +1,14 @@
-# How to Navigate through this repository
+# Village of Potsdam Website Recovery Audit
 
-# Overview: 
-the village has lost their website and 
+1. Project Overview
 
-# Selected screenshots
-For the website recovery project, our team selected six different screenshots: 
-- Planning Board
-- Village Board of Trustees
-- Village Board Agendas
-- Zoning Board of Appeals Minutes
-- Planning and Development Office
-- Department of Public Works
+Contributor: Sneha
+
+This project examines archived screenshots of the former Village of Potsdam website to determine what content can be recovered, how accurately it can be extracted, and what should be preserved or improved if the website is rebuilt.
+
+The audit focuses on recovering the website's information rather than recreating its original appearance exactly. The goal is to understand the existing site structure, identify important content, evaluate text extraction methods, and recommend a practical recovery and remediation strategy.
+
+The project was completed collaboratively by a team of three members.
 
 ## Repository Structure
 
