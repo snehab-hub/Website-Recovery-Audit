@@ -2,8 +2,6 @@
 
 1. Project Overview
 
-Contributor: Sneha
-
 This project examines archived screenshots of the former Village of Potsdam website to determine what content can be recovered, how accurately it can be extracted, and what should be preserved or improved if the website is rebuilt.
 
 The audit focuses on recovering the website's information rather than recreating its original appearance exactly. The goal is to understand the existing site structure, identify important content, evaluate text extraction methods, and recommend a practical recovery and remediation strategy.
