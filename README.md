@@ -64,7 +64,7 @@ The spreadsheet is an audit record. It does not replace the original documents o
 
 # Testing Text Extraction 
 We used three methods: Claude, Python and Tesseract.
-- Claude did best out of all methods. The only thing was, it placed the main and side menu after the page text and added a heading "Site Navigation".
+- Claude did best out of all methods. The only thing was, it placed the main and side menu after the page text and added a heading "Site Navigation". The model used was Opus 5.5 with Medium effort. The one-shot prompt was "can you extract the text from images and make doc files of text with same names for each screenshot." After it created the Word files, we asked it to convert into text files. Since, two screenshots at a time were extracted, we cannot generalize if it will do best even when the data it larger than ours.  
 - Tesseract 5.5.3 (Leptonica 1.87.0) was installed with Homebrew on macOS. It was run on six screenshots with default settings and English language data. No image editing was done before extraction. The raw output is stored unchanged in the [Tesseract raw files folder](extraction-files/ocr-tesseract-raw-files/).
 # Verifying Text Extraction
 - Claude: screenshots were manually compared with the extrcation files for text, headings, site navigation, contacts, and all other type of content.
