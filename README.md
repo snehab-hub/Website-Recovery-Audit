@@ -36,6 +36,10 @@ The following resources provide the evidence used for this audit.
 
 Note: The screenshots show the archived website. They do not show whether links, contact information, documents, or services are still current or working.
 
+# Methodology
+
+
+
 ## Creating the Content Inventory
 
 The team documented the selected pages in an Excel spreadsheet and then stored the inventory in a SQLite database. A CSV export of the database is included in the repository.
