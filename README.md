@@ -38,13 +38,13 @@ Note: The screenshots show the archived website. They do not show whether links,
 
 # Methodology
 
-The team analyzed eight archived screenshots of the Village of Potsdam website using the available sitemap to understand its original structure and navigation. A structured content inventory was created in SQLite to document page information, content types, assets, and recovery observations, with CSV files provided for reference.
+The team selected eight archived screenshots of the Village of Potsdam website to represent a variety of page types, content, and navigation features. A structured content inventory was created in SQLite to document page information, content types, assets, and recovery observations, with CSV files provided for reference.
 
 Three text extraction methods—Claude, Tesseract, and Python EasyOCR—were tested on the same screenshots. The extracted text was manually compared with the originals to identify errors, missing information, and formatting issues. These findings were used to develop recommendations for recovering historical content and improving the organization of a future website.
 
 ## Creating the Content Inventory
 
-The team documented the selected pages in an Excel spreadsheet and then stored the inventory in a [SQLite database](https://github.com/snehab-hub/Website-Recovery-Audit/blob/main/inventory/potsdam_inventory.db). A [CSV export](https://github.com/snehab-hub/Website-Recovery-Audit/blob/main/inventory/potsdam_inventory_export.csv) of the database is also included in the repository.
+The team initially documented the selected pages in an Excel spreadsheet and then organized the inventory in a [SQLite database](https://github.com/snehab-hub/Website-Recovery-Audit/blob/main/inventory/potsdam_inventory.db), which serves as the authoritative structured record of the audit. A [CSV export](https://github.com/snehab-hub/Website-Recovery-Audit/blob/main/inventory/potsdam_inventory_export.csv) generated from the final SQLite database is also included in the repository to ensure consistency.
 
 The inventory records:
 - Page ID
