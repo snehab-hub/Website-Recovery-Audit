@@ -17,7 +17,9 @@ For the website recovery project, our team selected six different screenshots:
 # Testing Text Extraction 
 We used three methods: Claude, Python and Tesseract.
 - Claude did best out of all methods. The only thing was, it placed the main and side menu after the page text and added a heading "Site Navigation".
-- 
+
+# Verifying Text Extraction
+Claude: screenshots were manually compared with the extrcation files for text, headings, site navigation, contacts, and all other type of content. 
 
 # Recovery Recommendations and Key Findings
 - Main menu, side menu, footer are same on all pages and can be recovered once. Contacts, emails, and addresses will need human verification. Priority should be contact details and resident services first (Public Works, Planning and Development, Clerk, Police, the payment pages, Forms), then board pages, then meeting archives.
