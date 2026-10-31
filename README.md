@@ -44,7 +44,7 @@ Three text extraction methods—Claude, Tesseract, and Python EasyOCR—were tes
 
 ## Creating the Content Inventory
 
-The team documented the selected pages in an Excel spreadsheet and then stored the inventory in a SQLite database. A CSV export of the database is included in the repository.
+The team documented the selected pages in an Excel spreadsheet and then stored the inventory in a [SQLite database](https://github.com/snehab-hub/Website-Recovery-Audit/blob/main/inventory/potsdam_inventory.db). A [CSV export](https://github.com/snehab-hub/Website-Recovery-Audit/blob/main/inventory/potsdam_inventory_export.csv) of the database is also included in the repository.
 
 The inventory records:
 - Page ID
