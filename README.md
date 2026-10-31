@@ -63,13 +63,13 @@ The inventory records:
 - Recovery and remediation plan
 
 
-# Testing Text Extraction 
+## Testing Text Extraction 
 The team used three methods: Claude, Python and Tesseract.
 - Claude did best out of all methods. The only thing was, it placed the main and side menu after the page text and added a heading "Site Navigation". The model used was Opus 5.5 with Medium effort. The one-shot prompt was "can you extract the text from images and make doc files of text with same names for each screenshot." After it created the Word files, we asked it to convert into text files. Since, two screenshots at a time were extracted, we cannot generalize if it will do best even when the data it larger than ours.  
 - Tesseract 5.5.3 (Leptonica 1.87.0) was installed with Homebrew on macOS. It was run on six screenshots with default settings and English language data. No image editing was done before extraction. The raw output is stored unchanged in the [Tesseract raw files folder](extraction-files/ocr-tesseract-raw-files/).
 - Python EasyOCR was used in Google Colab to extract text from the six archived website screenshots. EasyOCR was used to recognize and convert text within the images into editable text. The extracted results were then manually compared with the original screenshots to identify spelling errors, missing words, formatting issues, and inaccuracies in contact information. This helped evaluate EasyOCR's effectiveness for website content recovery. The raw Python text extraction output is stored unchanged in the [Python Extraction Files](https://github.com/snehab-hub/Website-Recovery-Audit/tree/main/extraction-files/Python_extraction_files) folder.
 
-# Verifying Text Extraction
+## Verifying Text Extraction
 - Claude: screenshots were manually compared with the extrcation files for text, headings, site navigation, contacts, and all other type of content.
 - Tesseract: screenshots were manually compared with the raw extraction files line by line. Main body text was mostly correct, and on simple one-column pages, such as Department of Public Works, it was fully correct. Common errors were misread bullet points (read as ¢, «, e, °, or ©), checkmark icons read as symbols (@, ?, "SS"), split or cut words ("N Ews", "partments"), lost list numbers, and missing footer and disclaimer text on all six pages. On the Planning and Development Office page, side menu items were mixed into the contact details.
 - Python-based OCR faced problems with missing navigation text, spelling mistakes, misread bullet points, punctuation errors, and inaccurate email addresses. Some menus were extracted in the wrong order or mixed with the main content. The extracted text was manually verified line by line against the original screenshots, checking headings, names, contact details, links, punctuation, and formatting. This process helped identify missing or incorrect information that will require manual correction.
