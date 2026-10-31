@@ -1,6 +1,6 @@
 # Village of Potsdam Website Recovery Audit
 
-## 1. Project Overview
+## Project Overview
 
 This project examines archived screenshots of the former Village of Potsdam website to determine what content can be recovered, how accurately it can be extracted, and what should be preserved or improved if the website is rebuilt.
 
