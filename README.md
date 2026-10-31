@@ -46,7 +46,6 @@ The team documented the selected pages in an Excel spreadsheet and then stored t
 
 The inventory records:
 - Page ID
-- Priority
 - Screenshot filename
 - Page title
 - Location in the website
