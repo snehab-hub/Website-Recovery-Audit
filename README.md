@@ -8,6 +8,20 @@ The audit focuses on recovering the website's information rather than recreating
 
 The project was completed collaboratively by a team of three members.
 
+## Project Objectives
+
+Reconstruct the observable information architecture of the original website.
+
+Create a structured inventory of the selected website pages and content.
+
+Compare three text extraction methods: Claude, Tesseract, and Python EasyOCR.
+
+Verify extracted text against the original screenshots and document errors.
+
+Identify content that can be recovered automatically and content requiring human review.
+
+Recommend how the Village of Potsdam should preserve historical information and organize a future website.
+
 ## Repository Structure
 
 The following resources provide the evidence used for this audit.
